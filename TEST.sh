@@ -1,1 +1,2 @@
-1234
+#!/bin/bash
+echo "Script ejecutandose en Jenkins"
